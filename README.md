@@ -1,1 +1,1 @@
-aistore.my.id
+www.aistore.my.id
