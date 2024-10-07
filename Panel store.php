@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AL STORE | HOSTING</title>
+    <title>AI STORE | HOSTING</title>
     <link rel="icon" href="image/logo.png">
     <link rel="stylesheet" href="css/style3.css">
 </head>
@@ -13,7 +13,7 @@
     <nav>
         <a href="homepage.html">Home</a>
         <a href="#">Tentang</a>
-        <a href="Panel store.html">Toko</a>
+        <a href="Panel store.php">Toko</a>
         <a href="ticket.html">Buat Tiket</a>
     </nav>
 </header>
