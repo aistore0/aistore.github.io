@@ -1,1 +1,1 @@
-aistore.github.io
+aistore.my.id
